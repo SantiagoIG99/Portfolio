@@ -3,7 +3,7 @@ export default[
         title: 'Developer Portfolio',
         imgUrl: '',
         stack: ['React', 'Tailwind', 'Vite'],
-        link: '',
+        link: 'https://portfolio-eight-neon-64.vercel.app/',
     },
 
     {
