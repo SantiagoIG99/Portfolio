@@ -1,7 +1,7 @@
 export default[
     {
         title: 'Developer Portfolio',
-        imgUrl: '',
+        imgUrl: '/assets/PortfolioPic.png',
         stack: ['React', 'Tailwind', 'Vite'],
         link: 'https://portfolio-eight-neon-64.vercel.app/',
     },
